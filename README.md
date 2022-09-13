@@ -1,4 +1,4 @@
-# CS4102# CS4423
+# CS4102
 
 [![Open in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gpfeiffer/cs4102/main)
 
